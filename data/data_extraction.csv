@@ -1,0 +1,59 @@
+article;Implementation Language;Sample Size;GUI Image;GUI Model;Usability Testing Data;Comparison Table Data;Target System;Contribution Focus
+Research on The Crawler Technology with Low-Code for Image Data in Electric Utility;AJAX, MySQL, Vue JS;0;Yes;Yes;No;No;Information System;Visual
+Low-code experimentation on software products;Angular, Bootstrap, Loopback, MongoDB;0;Yes;Yes;No;No;Information System;Visual
+A No-Code Platform for Tie Prediction Analysis in Social Media Networks;Angular, JavaScript, Postgre, Python;0;Yes;Yes;No;No;ML System;Visual
+PromptDeck: A No-Code Platform for Modular Prompt Engineering;Azure OpenAI, Express, MongoDB, Node.js, React, TypeScript;11;Yes;Yes;Qualitative Data;Yes;Information System;Visual
+Low-Code Flutter Application Development Solution;BESSER's Universal Modeling Language, Dart, Interaction Flow Modeling Language, Jinja, Python, SQLite, YAML;0;No;Yes;No;No;Information System;Visual
+Improving the Developer Experience with a Low-Code Process Modelling Language;BPT;25;Yes;No;Quantitative Data;Yes;Information System;Visual
+Introduction of an Assistance System to Support Domain Experts inProgramming Low-Code to Leverage Industry 5.0;C#;10;Yes;No;Quantitative Data;No;Information System;Visual
+NCARVis: No-Code Visualization Creation System based on Free-hand;C#, Unity;5;Yes;Yes;Qualitative Data;No;VR/AR System;Multimodal
+Supporting method engineering with a low-code approach: the LOMET tool;CSS, Express, HTML, Joint JS, Jquery, MySQL;3;Yes;Yes;Qualitative Data;No;Information System;Visual
+A low-code approach to support method engineering;CSS, Express, HTML, Joint JS, MySQL;0;Yes;Yes;No;No;Information System;Visual
+Supporting Method Creation, Adaptation and Execution with a Low-codeApproach;CSS, Express, HTML, Joint JS, MySQL;3;Yes;Yes;Qualitative Data;No;Information System;Visual
+A Customizable No-Code Realistic Motion Editor for VRM-Based Avatars;CSS, HTML, JavaScript, Jquery, Node.js;0;Yes;Yes;No;Yes;VR/AR System;Visual
+Prompt Sapper: A LLM-Empowered Production Tool for Building AI Chains;CSS, HTML, JavaScript, Python;30;Yes;No;Quantitative Data;Yes;Information System;Visual
+"A ""No-Code"" App Design Platform for Mobile Health Research: Development and Usability Study";Dart, Django, React, YAML;5;Yes;No;Qualitative Data;No;Information System;Visual
+Dandelion: A scalable, cloud-based graphical language workbench forindustrial low-code development;Elasticsearch, Java, Node.js, React, TypeScript;0;Yes;Yes;No;No;Information System;Visual
+MoveApps: a serverless no-code analysis platform for animal trackingdata;Go, Java, Kotlin, R;0;Yes;No;No;Yes;ML System;Visual
+Trinity: A No-Code AI platform for complex spatial datasets;Go, Python;0;Yes;Yes;Qualitative Data;No;ML System;Visual
+CoVeriTeam GUI: A No-Code Approach to Cooperative Software Verification;HTML, JavaScript, Python, React;0;Yes;No;No;No;Information System;Visual
+RESTsec: a low-code platform for generating secure by design enterpriseservices;Java;0;No;Yes;No;Yes;Information System;Visual
+OSTRICH - A Type-safe Template Language for Low-code Development;Java, OSTRICH;0;Yes;Yes;No;No;Information System;Visual
+OSTRICH: a rich template language for low-code development (extendedversion);Java, OSTRICH;0;Yes;Yes;No;No;Information System;Visual
+ML-quadrat & DriotData: a model-driven engineering tool and a low-code platform for smart IoT services;Java, Python;4;Yes;Yes;Qualitative Data;No;IoT System;Visual
+Low-Code Development Using Requirements and Knowledge RepresentationModels;Java, RSL (Requirements Specification Language);42;Yes;Yes;Quantitative Data;Yes;Information System;Visual
+Beyond Low-Code Development: Marrying Requirements Models and KnowledgeRepresentations;Java, RSL (Requirements Specification Language);42;Yes;Yes;Quantitative Data;Yes;Information System;Visual
+Low-Code Development in Worker Assistance Systems: Improving Flexibilityand Adaptability;JavaScript;0;Yes;No;No;No;Information System;Visual
+A Novel Browser-based No-code Machine Learning Application DevelopmentTool;JavaScript;0;Yes;No;No;No;ML System;Visual
+A New Action Meta-model and Grammar for a DEMO Based Low-Code PlatformRules Processing Engine;JavaScript;0;Yes;Yes;No;No;Information System;Visual
+WHATSNEXT: Guidance-enriched Exploratory Data Analysis with Interactive,Low-Code Notebooks;JavaScript, Python;0;Yes;Yes;No;No;Information System;Multimodal
+Revolutionizing Process Automation: The Synergy of Low-Code DevelopmentPlatforms, Robotic Process Automation, and Integrated Smart SystemPlatform;JavaScript, Python;150;Yes;Yes;Quantitative Data;No;IoT System;Visual
+Introducing CHiDO-A No Code Genomic Prediction software implementationfor the characterization and integration of driven omics;JavaScript, R;0;Yes;Yes;No;No;ML System;Visual
+A No-Code AI Education Tool for Learning AI in K-12 by Making MachineLearning-Driven Apps;JavaScript, React;213;Yes;Yes;Quantitative Data;No;ML System;Visual
+Experiencing InstructPipe: Building Multi-modal AI Pipelines via Prompting LLMs and Visual Programming;Markdown, PaLI (Pathways Language and Image Model);58;Yes;No;No;No;Information System;Visual
+EasySpider: A No-Code Visual System for Crawling the Web;MongoDB;0;Yes;Yes;No;No;Information System;Visual
+Design and Implementation of a Low-Code Platform in the Power Sector;MySQL;0;Yes;No;No;No;ML System;Visual
+Low-code AutoML solutions for predicting bond strength and failure modesof CFRP-steel joints;Python;0;Yes;No;No;No;ML System;Visual
+A Scalable Cloud-Edge Collaborative Approach for Intelligent Low-CodeFault Diagnosis: Successful Applications of Agile Migration Deploymentin Heterogeneous Fault Diagnosis Scenarios;Python;0;No;Yes;No;No;IoT System;Visual
+Machine driven classification of open-ended responses (MDCOR): Ananalytic framework and no-code, free software application to classifylongitudinal and cross-sectional text responses in survey and socialmedia research;Python;0;Yes;Yes;No;No;ML System;Visual
+AI for Low-Code for AI;Python;20;Yes;No;Quantitative Data;No;ML System;Multimodal
+EasyFL: A Low-Code Federated Learning Platform for Dummies;Python;0;No;Yes;No;Yes;ML System;Visual
+Optimization for achieving sustainability in low code developmentplatform;Python;0;Yes;Yes;No;Yes;Information System;Visual
+Automatic Generation of Conversational Interfaces for Tabular Data Analysis;Python, SQL;0;Yes;Yes;No;No;Information System;Multimodal
+DeviceTalk: A No-Code Low-Code IoT Device Code Generation;Python, Vue JS;0;Yes;Yes;No;No;IoT System;Visual
+Towards Augmented Enterprise Models as Low-Code Interfaces to DigitalSystems;R;0;No;Yes;No;No;VR/AR System;Visual
+On the Design of Adaptive Robotic Systems using Room Sensors, Anchoring,Semantic, and Low-code Technologies;Rust, TerminusDB, TypeScript, WOQL;0;Yes;Yes;No;No;IoT System;Visual
+Test Case Expression in a Low-Code Development Platform;Test Case Expression;0;Yes;Yes;No;No;Information System;Visual
+Could No-Code Be Code? Toward a No-Code Programming Language for Citizen Developers;Too;10;Yes;No;Qualitative Data;Yes;Information System;Visual
+Enhancing human-guided robotic assembly: AR-assisted DT for skill-basedand low-code programming;Unity;0;Yes;Yes;Quantitative Data;Yes;VR/AR System;Multimodal
+AI-mediated Job Status Tracking in AR as a No-Code service;Null;0;Yes;No;No;No;VR/AR System;Multimodal
+Paving theWay for the Low-/No-Code Development of Digital Therapeutics:The DTxTAPP Framework;Null;0;No;Yes;No;No;Information System;Visual
+From Builders to Editors: Bidirectional Transformations of Low-codeModels;Null;0;Yes;Yes;No;No;Information System;Visual
+A Case Study: Digitalization of Business Processes of SMEs with Low-CodeMethod;Null;0;Yes;Yes;No;No;Information System;Visual
+No-code Digital Human for Conversational Behavior;Null;0;Yes;Yes;No;No;Information System;Visual
+A Visual Programming Environment for Describing Complex Big Data Functions;Null;0;Yes;Yes;No;No;ML System;Visual
+Low-Code Programming Models;Null;0;No;Yes;No;Yes;Information System;Multimodal
+A light-weight low-code platform for back-end automation;Null;0;Yes;Yes;No;Yes;Information System;Visual
+Towards access control for collaborative modelling apps;Null;0;Yes;Yes;No;Yes;Information System;Visual
+Node-read: a visually accessible low-code software development extension;Null;12;Yes;No;Quantitative Data;Yes;Information System;Visual
+Turning Low-Code Development Platforms into True No-Code with LLMs;Null;18;Yes;Yes;Quantitative Data;Yes;Information System;Multimodal
