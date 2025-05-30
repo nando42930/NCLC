@@ -1,16 +1,20 @@
+import itertools
 from scipy.stats import spearmanr
 
 
-def spearman_correlation(df):
-    """Computes Spearman’s Rank Correlation between Sample Size and Usability Testing Data."""
-    df['Usability Testing Data Numeric'] = df['Usability Testing Data'].map({
-        'No': 0,
-        'Qualitative Data': 1,
-        'Quantitative Data': 2
-    })
+def spearman_correlation(numeric_df):
+    """
+    Computes and prints the Spearman Rank Correlation and p-value for all pairs of numeric features.
 
-    spearman_corr, spearman_p = spearmanr(df['Sample Size'], df['Usability Testing Data Numeric'])
+    Args:
+        numeric_df (pandas.DataFrame): A DataFrame containing only numeric features.
 
-    print("Spearman’s Rank Correlation Results:")
-    print(f"Correlation Coefficient (0.8 < c <= 1.0): {spearman_corr}")
-    print(f"P-Value (p < 0.05): {spearman_p}\n")
+    Returns:
+        None: This function prints correlation statistics and does not return a value.
+    """
+
+    for var1, var2 in itertools.combinations(numeric_df.columns, 2):
+        corr, p = spearmanr(numeric_df[var1], numeric_df[var2])
+        print(f"Spearman Rank Correlation between '{var1}' and '{var2}'")
+        print(f"Correlation Coefficient (0.8 < c <= 1.0): {corr:.3f}")
+        print(f"P-Value (p < 0.05): {p:.4f}\n")

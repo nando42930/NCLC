@@ -1,0 +1,128 @@
+Id_PT2_Articles;article;Implementation Language;Sample Size;GUI Image;GUI Model;Usability Testing Data;Comparison Table Data;Target System;Contribution Focus;Year
+51;Improving the Developer Experience with a Low-Code Process Modelling Language;BPT;25;Yes;No;Quantitative Data;Yes;Information System;Visual;2018
+18;A Novel Browser-based No-code Machine Learning Application DevelopmentTool;JavaScript;0;Yes;No;No;No;ML System;Visual;2021
+1;"A ""No-Code"" App Design Platform for Mobile Health Research: Development and Usability Study";Dart;5;Yes;No;Qualitative Data;No;Information System;Visual;2022
+1;"A ""No-Code"" App Design Platform for Mobile Health Research: Development and Usability Study";Django;5;Yes;No;Qualitative Data;No;Information System;Visual;2022
+1;"A ""No-Code"" App Design Platform for Mobile Health Research: Development and Usability Study";React;5;Yes;No;Qualitative Data;No;Information System;Visual;2022
+1;"A ""No-Code"" App Design Platform for Mobile Health Research: Development and Usability Study";YAML;5;Yes;No;Qualitative Data;No;Information System;Visual;2022
+3;AI-mediated Job Status Tracking in AR as a No-Code service;NULL;0;Yes;No;No;No;VR/AR System;Multimodal;2022
+32;Introduction of an Assistance System to Support Domain Experts inProgramming Low-Code to Leverage Industry 5.0;C#;10;Yes;No;Quantitative Data;No;Information System;Visual;2022
+7;Low-Code Development in Worker Assistance Systems: Improving Flexibilityand Adaptability;JavaScript;0;Yes;No;No;No;Information System;Visual;2022
+27;MoveApps: a serverless no-code analysis platform for animal trackingdata;Go;0;Yes;No;No;Yes;ML System;Visual;2022
+27;MoveApps: a serverless no-code analysis platform for animal trackingdata;Java;0;Yes;No;No;Yes;ML System;Visual;2022
+27;MoveApps: a serverless no-code analysis platform for animal trackingdata;Kotlin;0;Yes;No;No;Yes;ML System;Visual;2022
+27;MoveApps: a serverless no-code analysis platform for animal trackingdata;R;0;Yes;No;No;Yes;ML System;Visual;2022
+53;Node-read: a visually accessible low-code software development extension;NULL;12;Yes;No;Quantitative Data;Yes;Information System;Visual;2022
+48;Design and Implementation of a Low-Code Platform in the Power Sector;MySQL;0;Yes;No;No;No;ML System;Visual;2023
+38;Could No-Code Be Code? Toward a No-Code Programming Language for Citizen Developers;Too;10;Yes;No;Qualitative Data;Yes;Information System;Visual;2023
+44;AI for Low-Code for AI;Python;20;Yes;No;Quantitative Data;No;ML System;Multimodal;2024
+40;CoVeriTeam GUI: A No-Code Approach to Cooperative Software Verification;HTML;0;Yes;No;No;No;Information System;Visual;2024
+40;CoVeriTeam GUI: A No-Code Approach to Cooperative Software Verification;JavaScript;0;Yes;No;No;No;Information System;Visual;2024
+40;CoVeriTeam GUI: A No-Code Approach to Cooperative Software Verification;Python;0;Yes;No;No;No;Information System;Visual;2024
+40;CoVeriTeam GUI: A No-Code Approach to Cooperative Software Verification;React;0;Yes;No;No;No;Information System;Visual;2024
+57;Experiencing InstructPipe: Building Multi-modal AI Pipelines via Prompting LLMs and Visual Programming;Markdown;58;Yes;No;No;No;Information System;Visual;2024
+57;Experiencing InstructPipe: Building Multi-modal AI Pipelines via Prompting LLMs and Visual Programming;PaLI (Pathways Language and Image Model);58;Yes;No;No;No;Information System;Visual;2024
+29;Low-code AutoML solutions for predicting bond strength and failure modesof CFRP-steel joints;Python;0;Yes;No;No;No;ML System;Visual;2024
+56;Prompt Sapper: A LLM-Empowered Production Tool for Building AI Chains;CSS;30;Yes;No;Quantitative Data;Yes;Information System;Visual;2024
+56;Prompt Sapper: A LLM-Empowered Production Tool for Building AI Chains;HTML;30;Yes;No;Quantitative Data;Yes;Information System;Visual;2024
+56;Prompt Sapper: A LLM-Empowered Production Tool for Building AI Chains;JavaScript;30;Yes;No;Quantitative Data;Yes;Information System;Visual;2024
+56;Prompt Sapper: A LLM-Empowered Production Tool for Building AI Chains;Python;30;Yes;No;Quantitative Data;Yes;Information System;Visual;2024
+5;RESTsec: a low-code platform for generating secure by design enterpriseservices;Java;0;No;Yes;No;Yes;Information System;Visual;2018
+58;Towards access control for collaborative modelling apps;NULL;0;Yes;Yes;No;Yes;Information System;Visual;2020
+22;Towards Augmented Enterprise Models as Low-Code Interfaces to DigitalSystems;R;0;No;Yes;No;No;VR/AR System;Visual;2021
+17;A No-Code Platform for Tie Prediction Analysis in Social Media Networks;Angular;0;Yes;Yes;No;No;ML System;Visual;2021
+17;A No-Code Platform for Tie Prediction Analysis in Social Media Networks;JavaScript;0;Yes;Yes;No;No;ML System;Visual;2021
+17;A No-Code Platform for Tie Prediction Analysis in Social Media Networks;Postgre;0;Yes;Yes;No;No;ML System;Visual;2021
+17;A No-Code Platform for Tie Prediction Analysis in Social Media Networks;Python;0;Yes;Yes;No;No;ML System;Visual;2021
+14;From Builders to Editors: Bidirectional Transformations of Low-codeModels;NULL;0;Yes;Yes;No;No;Information System;Visual;2021
+9;OSTRICH - A Type-safe Template Language for Low-code Development;Java;0;Yes;Yes;No;No;Information System;Visual;2021
+9;OSTRICH - A Type-safe Template Language for Low-code Development;OSTRICH;0;Yes;Yes;No;No;Information System;Visual;2021
+50;Trinity: A No-Code AI platform for complex spatial datasets;Go;0;Yes;Yes;Qualitative Data;No;ML System;Visual;2021
+50;Trinity: A No-Code AI platform for complex spatial datasets;Python;0;Yes;Yes;Qualitative Data;No;ML System;Visual;2021
+26;A Case Study: Digitalization of Business Processes of SMEs with Low-CodeMethod;NULL;0;Yes;Yes;No;No;Information System;Visual;2022
+46;A low-code approach to support method engineering;CSS;0;Yes;Yes;No;No;Information System;Visual;2022
+46;A low-code approach to support method engineering;Express;0;Yes;Yes;No;No;Information System;Visual;2022
+46;A low-code approach to support method engineering;HTML;0;Yes;Yes;No;No;Information System;Visual;2022
+46;A low-code approach to support method engineering;Joint JS;0;Yes;Yes;No;No;Information System;Visual;2022
+46;A low-code approach to support method engineering;MySQL;0;Yes;Yes;No;No;Information System;Visual;2022
+4;DeviceTalk: A No-Code Low-Code IoT Device Code Generation;Python;0;Yes;Yes;No;No;IoT System;Visual;2022
+4;DeviceTalk: A No-Code Low-Code IoT Device Code Generation;Vue JS;0;Yes;Yes;No;No;IoT System;Visual;2022
+43;Low-code experimentation on software products;Angular;0;Yes;Yes;No;No;Information System;Visual;2022
+43;Low-code experimentation on software products;Bootstrap;0;Yes;Yes;No;No;Information System;Visual;2022
+43;Low-code experimentation on software products;Loopback;0;Yes;Yes;No;No;Information System;Visual;2022
+43;Low-code experimentation on software products;MongoDB;0;Yes;Yes;No;No;Information System;Visual;2022
+21;Machine driven classification of open-ended responses (MDCOR): Ananalytic framework and no-code, free software application to classifylongitudinal and cross-sectional text responses in survey and socialmedia research;Python;0;Yes;Yes;No;No;ML System;Visual;2022
+52;ML-quadrat & DriotData: a model-driven engineering tool and a low-code platform for smart IoT services;Java;4;Yes;Yes;Qualitative Data;No;IoT System;Visual;2022
+52;ML-quadrat & DriotData: a model-driven engineering tool and a low-code platform for smart IoT services;Python;4;Yes;Yes;Qualitative Data;No;IoT System;Visual;2022
+39;No-code Digital Human for Conversational Behavior;NULL;0;Yes;Yes;No;No;Information System;Visual;2022
+10;OSTRICH: a rich template language for low-code development (extendedversion);Java;0;Yes;Yes;No;No;Information System;Visual;2022
+10;OSTRICH: a rich template language for low-code development (extendedversion);OSTRICH;0;Yes;Yes;No;No;Information System;Visual;2022
+49;Research on The Crawler Technology with Low-Code for Image Data in Electric Utility;AJAX;0;Yes;Yes;No;No;Information System;Visual;2022
+49;Research on The Crawler Technology with Low-Code for Image Data in Electric Utility;MySQL;0;Yes;Yes;No;No;Information System;Visual;2022
+49;Research on The Crawler Technology with Low-Code for Image Data in Electric Utility;Vue JS;0;Yes;Yes;No;No;Information System;Visual;2022
+20;EasyFL: A Low-Code Federated Learning Platform for Dummies;Python;0;No;Yes;No;Yes;ML System;Visual;2022
+47;A light-weight low-code platform for back-end automation;NULL;0;Yes;Yes;No;Yes;Information System;Visual;2022
+15;Beyond Low-Code Development: Marrying Requirements Models and KnowledgeRepresentations;Java;42;Yes;Yes;Quantitative Data;Yes;Information System;Visual;2022
+15;Beyond Low-Code Development: Marrying Requirements Models and KnowledgeRepresentations;RSL (Requirements Specification Language);42;Yes;Yes;Quantitative Data;Yes;Information System;Visual;2022
+30;A New Action Meta-model and Grammar for a DEMO Based Low-Code PlatformRules Processing Engine;JavaScript;0;Yes;Yes;No;No;Information System;Visual;2023
+55;A Visual Programming Environment for Describing Complex Big Data Functions;NULL;0;Yes;Yes;No;No;ML System;Visual;2023
+28;Dandelion: A scalable, cloud-based graphical language workbench forindustrial low-code development;Elasticsearch;0;Yes;Yes;No;No;Information System;Visual;2023
+28;Dandelion: A scalable, cloud-based graphical language workbench forindustrial low-code development;Java;0;Yes;Yes;No;No;Information System;Visual;2023
+28;Dandelion: A scalable, cloud-based graphical language workbench forindustrial low-code development;Node.js;0;Yes;Yes;No;No;Information System;Visual;2023
+28;Dandelion: A scalable, cloud-based graphical language workbench forindustrial low-code development;React;0;Yes;Yes;No;No;Information System;Visual;2023
+28;Dandelion: A scalable, cloud-based graphical language workbench forindustrial low-code development;TypeScript;0;Yes;Yes;No;No;Information System;Visual;2023
+45;EasySpider: A No-Code Visual System for Crawling the Web;MongoDB;0;Yes;Yes;No;No;Information System;Visual;2023
+2;NCARVis: No-Code Visualization Creation System based on Free-hand;C#;5;Yes;Yes;Qualitative Data;No;VR/AR System;Multimodal;2023
+2;NCARVis: No-Code Visualization Creation System based on Free-hand;Unity;5;Yes;Yes;Qualitative Data;No;VR/AR System;Multimodal;2023
+19;WHATSNEXT: Guidance-enriched Exploratory Data Analysis with Interactive,Low-Code Notebooks;JavaScript;0;Yes;Yes;No;No;Information System;Multimodal;2023
+19;WHATSNEXT: Guidance-enriched Exploratory Data Analysis with Interactive,Low-Code Notebooks;Python;0;Yes;Yes;No;No;Information System;Multimodal;2023
+41;Low-Code Programming Models;NULL;0;No;Yes;No;Yes;Information System;Multimodal;2023
+11;A Customizable No-Code Realistic Motion Editor for VRM-Based Avatars;CSS;0;Yes;Yes;No;Yes;VR/AR System;Visual;2023
+11;A Customizable No-Code Realistic Motion Editor for VRM-Based Avatars;HTML;0;Yes;Yes;No;Yes;VR/AR System;Visual;2023
+11;A Customizable No-Code Realistic Motion Editor for VRM-Based Avatars;JavaScript;0;Yes;Yes;No;Yes;VR/AR System;Visual;2023
+11;A Customizable No-Code Realistic Motion Editor for VRM-Based Avatars;Jquery;0;Yes;Yes;No;Yes;VR/AR System;Visual;2023
+11;A Customizable No-Code Realistic Motion Editor for VRM-Based Avatars;Node.js;0;Yes;Yes;No;Yes;VR/AR System;Visual;2023
+31;Optimization for achieving sustainability in low code developmentplatform;Python;0;Yes;Yes;No;Yes;Information System;Visual;2023
+34;A Scalable Cloud-Edge Collaborative Approach for Intelligent Low-CodeFault Diagnosis: Successful Applications of Agile Migration Deploymentin Heterogeneous Fault Diagnosis Scenarios;Python;0;No;Yes;No;No;IoT System;Visual;2024
+37;Low-Code Flutter Application Development Solution;BESSER's Universal Modeling Language;0;No;Yes;No;No;Information System;Visual;2024
+37;Low-Code Flutter Application Development Solution;Dart;0;No;Yes;No;No;Information System;Visual;2024
+37;Low-Code Flutter Application Development Solution;Interaction Flow Modeling Language;0;No;Yes;No;No;Information System;Visual;2024
+37;Low-Code Flutter Application Development Solution;Jinja;0;No;Yes;No;No;Information System;Visual;2024
+37;Low-Code Flutter Application Development Solution;Python;0;No;Yes;No;No;Information System;Visual;2024
+37;Low-Code Flutter Application Development Solution;SQLite;0;No;Yes;No;No;Information System;Visual;2024
+37;Low-Code Flutter Application Development Solution;YAML;0;No;Yes;No;No;Information System;Visual;2024
+16;Paving theWay for the Low-/No-Code Development of Digital Therapeutics:The DTxTAPP Framework;NULL;0;No;Yes;No;No;Information System;Visual;2024
+23;A No-Code AI Education Tool for Learning AI in K-12 by Making MachineLearning-Driven Apps;JavaScript;213;Yes;Yes;Quantitative Data;No;ML System;Visual;2024
+23;A No-Code AI Education Tool for Learning AI in K-12 by Making MachineLearning-Driven Apps;React;213;Yes;Yes;Quantitative Data;No;ML System;Visual;2024
+54;Automatic Generation of Conversational Interfaces for Tabular Data Analysis;Python;0;Yes;Yes;No;No;Information System;Multimodal;2024
+54;Automatic Generation of Conversational Interfaces for Tabular Data Analysis;SQL;0;Yes;Yes;No;No;Information System;Multimodal;2024
+33;Introducing CHiDO-A No Code Genomic Prediction software implementationfor the characterization and integration of driven omics;JavaScript;0;Yes;Yes;No;No;ML System;Visual;2024
+33;Introducing CHiDO-A No Code Genomic Prediction software implementationfor the characterization and integration of driven omics;R;0;Yes;Yes;No;No;ML System;Visual;2024
+6;On the Design of Adaptive Robotic Systems using Room Sensors, Anchoring,Semantic, and Low-code Technologies;Rust;0;Yes;Yes;No;No;IoT System;Visual;2024
+6;On the Design of Adaptive Robotic Systems using Room Sensors, Anchoring,Semantic, and Low-code Technologies;TerminusDB;0;Yes;Yes;No;No;IoT System;Visual;2024
+6;On the Design of Adaptive Robotic Systems using Room Sensors, Anchoring,Semantic, and Low-code Technologies;TypeScript;0;Yes;Yes;No;No;IoT System;Visual;2024
+6;On the Design of Adaptive Robotic Systems using Room Sensors, Anchoring,Semantic, and Low-code Technologies;WOQL;0;Yes;Yes;No;No;IoT System;Visual;2024
+8;Revolutionizing Process Automation: The Synergy of Low-Code DevelopmentPlatforms, Robotic Process Automation, and Integrated Smart SystemPlatform;JavaScript;150;Yes;Yes;Quantitative Data;No;IoT System;Visual;2024
+8;Revolutionizing Process Automation: The Synergy of Low-Code DevelopmentPlatforms, Robotic Process Automation, and Integrated Smart SystemPlatform;Python;150;Yes;Yes;Quantitative Data;No;IoT System;Visual;2024
+24;Supporting Method Creation, Adaptation and Execution with a Low-codeApproach;CSS;3;Yes;Yes;Qualitative Data;No;Information System;Visual;2024
+24;Supporting Method Creation, Adaptation and Execution with a Low-codeApproach;Express;3;Yes;Yes;Qualitative Data;No;Information System;Visual;2024
+24;Supporting Method Creation, Adaptation and Execution with a Low-codeApproach;HTML;3;Yes;Yes;Qualitative Data;No;Information System;Visual;2024
+24;Supporting Method Creation, Adaptation and Execution with a Low-codeApproach;Joint JS;3;Yes;Yes;Qualitative Data;No;Information System;Visual;2024
+24;Supporting Method Creation, Adaptation and Execution with a Low-codeApproach;MySQL;3;Yes;Yes;Qualitative Data;No;Information System;Visual;2024
+25;Supporting method engineering with a low-code approach: the LOMET tool;CSS;3;Yes;Yes;Qualitative Data;No;Information System;Visual;2024
+25;Supporting method engineering with a low-code approach: the LOMET tool;Express;3;Yes;Yes;Qualitative Data;No;Information System;Visual;2024
+25;Supporting method engineering with a low-code approach: the LOMET tool;HTML;3;Yes;Yes;Qualitative Data;No;Information System;Visual;2024
+25;Supporting method engineering with a low-code approach: the LOMET tool;Joint JS;3;Yes;Yes;Qualitative Data;No;Information System;Visual;2024
+25;Supporting method engineering with a low-code approach: the LOMET tool;Jquery;3;Yes;Yes;Qualitative Data;No;Information System;Visual;2024
+25;Supporting method engineering with a low-code approach: the LOMET tool;MySQL;3;Yes;Yes;Qualitative Data;No;Information System;Visual;2024
+42;Test Case Expression in a Low-Code Development Platform;Test Case Expression;0;Yes;Yes;No;No;Information System;Visual;2024
+13;Enhancing human-guided robotic assembly: AR-assisted DT for skill-basedand low-code programming;Unity;0;Yes;Yes;Quantitative Data;Yes;VR/AR System;Multimodal;2024
+12;Low-Code Development Using Requirements and Knowledge RepresentationModels;Java;42;Yes;Yes;Quantitative Data;Yes;Information System;Visual;2024
+12;Low-Code Development Using Requirements and Knowledge RepresentationModels;RSL (Requirements Specification Language);42;Yes;Yes;Quantitative Data;Yes;Information System;Visual;2024
+36;PromptDeck: A No-Code Platform for Modular Prompt Engineering;Azure OpenAI;11;Yes;Yes;Qualitative Data;Yes;Information System;Visual;2024
+36;PromptDeck: A No-Code Platform for Modular Prompt Engineering;Express;11;Yes;Yes;Qualitative Data;Yes;Information System;Visual;2024
+36;PromptDeck: A No-Code Platform for Modular Prompt Engineering;MongoDB;11;Yes;Yes;Qualitative Data;Yes;Information System;Visual;2024
+36;PromptDeck: A No-Code Platform for Modular Prompt Engineering;Node.js;11;Yes;Yes;Qualitative Data;Yes;Information System;Visual;2024
+36;PromptDeck: A No-Code Platform for Modular Prompt Engineering;React;11;Yes;Yes;Qualitative Data;Yes;Information System;Visual;2024
+36;PromptDeck: A No-Code Platform for Modular Prompt Engineering;TypeScript;11;Yes;Yes;Qualitative Data;Yes;Information System;Visual;2024
+35;Turning Low-Code Development Platforms into True No-Code with LLMs;NULL;18;Yes;Yes;Quantitative Data;Yes;Information System;Multimodal;2024

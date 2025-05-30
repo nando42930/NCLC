@@ -1,22 +1,22 @@
-import pandas as pd
-import seaborn as sns
 import matplotlib.pyplot as plt
+import seaborn as sns
 
 
-def plot_correlation_heatmap(df):
-    """Creates and displays a Pearson Correlation Heatmap."""
-    numeric_df = pd.DataFrame()
-    numeric_df['Sample Size'] = df['Sample Size']
-    numeric_df['GUI Image'] = df['GUI Image'].apply(lambda x: 1 if x == 'Yes' else 0)
-    numeric_df['GUI Model'] = df['GUI Model'].apply(lambda x: 1 if x == 'Yes' else 0)
-    numeric_df['Usability Testing Data'] = df['Usability Testing Data'].apply(
-        lambda x: 2 if x == 'Quantitative Data' else (1 if x == 'Qualitative Data' else 0))
-    numeric_df['Comparison Table Data'] = df['Comparison Table Data'].apply(lambda x: 1 if x == 'Yes' else 0)
-    numeric_df['Target System'] = df['Target System'].apply(
-        lambda x: 3 if x == 'Information System' else (2 if x == 'ML System' else (1 if x == 'IoT System' else 0)))
-    numeric_df['Contribution Focus'] = df['Contribution Focus'].apply(lambda x: 1 if x == 'Visual' else 0)
+def plot_correlation_heatmap(numeric_df):
+    """
+    Computes and plots a Pearson Correlation Heatmap from a numeric DataFrame.
+
+    Args:
+        numeric_df (pandas.DataFrame): A DataFrame containing only numeric features
+                                       for which the correlation heatmap will be plotted.
+
+    Returns:
+        None: This function displays the plot and does not return a value.
+    """
 
     correlation_matrix = numeric_df.corr()
+
+    # Rescales correlation values from [-1, 1] to [0, 100] to enhance visual interpretation
     scaled_correlation_matrix = (correlation_matrix + 1) / 2 * 100
 
     plt.figure(figsize=(10, 10))
