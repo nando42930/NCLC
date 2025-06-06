@@ -5,7 +5,7 @@ from sklearn.ensemble import RandomForestClassifier, RandomForestRegressor
 from sklearn.metrics import classification_report, mean_absolute_error, r2_score
 
 
-def analyze_relationship(df, r2_threshold, accuracy_threshold):
+def analyze_relationship(df, r2_threshold, accuracy_threshold, only_with=None):
     """
     Evaluates predictive relationships between combinations of input features and target features.
 
@@ -17,6 +17,7 @@ def analyze_relationship(df, r2_threshold, accuracy_threshold):
         df (pandas.DataFrame): Input DataFrame containing features to be used both as predictors (input) and targets.
         r2_threshold (float): Minimum R² score threshold to consider a regression model significant.
         accuracy_threshold (float): Minimum accuracy threshold to consider a classification model significant.
+        only_with (str): If set, only runs tests with this column either as input or target column.
 
     Returns:
         list: Currently an empty list (placeholder for future storage of significant model results).
@@ -38,8 +39,7 @@ def analyze_relationship(df, r2_threshold, accuracy_threshold):
     categorical_cols = list(label_encoders.keys())
 
     # Defines relevant columns to evaluate for input/target relationships.
-    all_columns = ['Sample Size', 'GUI Image', 'GUI Model', 'Usability Testing Data',
-                   'Comparison Table Data', 'Target System', 'Contribution Focus', 'Year']
+    all_columns = list(df.columns)
 
     results = []
 
@@ -52,6 +52,11 @@ def analyze_relationship(df, r2_threshold, accuracy_threshold):
             X = df[list(input_cols)]
 
             for target in target_cols:
+                # Only runs if `only_with` is None or if `only_with` is in inputs or is the target
+                if only_with is not None:
+                    if only_with not in input_cols and only_with != target:
+                        continue
+
                 y = df[target]
 
                 try:

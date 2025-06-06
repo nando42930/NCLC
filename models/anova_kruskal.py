@@ -2,7 +2,7 @@ from utils.data_distribution import normality_tests
 from scipy.stats import f_oneway, kruskal
 
 
-def anova_kruskal_test(df, normality_method='shapiro'):
+def anova_kruskal_test(df, normality_method='shapiro', only_with=None):
     """
     Performs statistical tests (ANOVA or Kruskal-Wallis) on all combinations of 
     categorical and numerical column pairs in the DataFrame.
@@ -14,8 +14,8 @@ def anova_kruskal_test(df, normality_method='shapiro'):
 
     Args:
         df (pandas.DataFrame): The input DataFrame containing both categorical and numerical features.
-        normality_method (str): The method for normality testing. Options are 'shapiro' or 'ks'.
-                                Default is 'shapiro'.
+        normality_method (str): The method for normality testing. Options are 'shapiro' or 'ks'. Default is 'shapiro'.
+        only_with (str): If set, only runs tests between this column and others.
 
     Returns:
         None: This function prints the results of each statistical test and does not return a value.
@@ -23,6 +23,12 @@ def anova_kruskal_test(df, normality_method='shapiro'):
 
     numerical_cols = df.select_dtypes(include='number').columns
     categorical_cols = df.select_dtypes(include='object').columns
+
+    # Filters the desired feature to run tests
+    if only_with:
+        if only_with not in categorical_cols:
+            raise ValueError(f"'{only_with}' is not a valid categorical column.")
+        categorical_cols = [only_with]
 
     for cat_col in categorical_cols:
         for num_col in numerical_cols:
